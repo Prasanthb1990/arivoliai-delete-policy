@@ -1,9 +1,9 @@
-# Delete Account & Data – GenZ AI Tutor (AskDiya)
+# Delete Account & Data – Arivoli OET
 
-If you want to delete your GenZ AI Tutor (AskDiya) account and associated data, please email us from the phone number registered in the app.
+If you want to delete your Arivoli OET account and associated data, please email us from the phone number registered in the app.
 
-**Email:** GenZAI@gmail.com  
-**Subject:** Delete my AskDiya account  
+**Email:** Arivoli@gmail.com  
+**Subject:** Delete my ArivoliOET account  
 **Include:** Your registered phone number (with country code)
 
 ## What will be deleted
