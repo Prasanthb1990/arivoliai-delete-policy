@@ -1,9 +1,9 @@
-# Delete Account & Data – Arivoli OET
+# Delete Account & Data – ArivoliAI OET
 
-If you want to delete your Arivoli OET account and associated data, please email us from the phone number registered in the app.
+If you want to delete your ArivoliAI OET account and associated data, please email us from the phone number registered in the app.
 
-**Email:** Arivoli@gmail.com  
-**Subject:** Delete my ArivoliOET account  
+**Email:** www.ArivoliAI.com  
+**Subject:** Delete my ArivoliAIOET account  
 **Include:** Your registered phone number (with country code)
 
 ## What will be deleted
